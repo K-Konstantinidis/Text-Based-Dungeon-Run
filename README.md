@@ -1,5 +1,5 @@
 # Text-Based-Dungeon-Run
-A Java project for a text based dungeon run
+A Java project for a text based dungeon run.
 
 This is a Java project. After you run the Main class, then you will be able to play a dungeon run in the console.
 There are 3 different classes (Warrior, Archer, Mage) and 4 different options for enemies to appear (Skeleton, Zombie, Assassin, Ancient Dragon).
