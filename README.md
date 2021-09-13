@@ -6,4 +6,4 @@ There are 3 different classes (Warrior, Archer, Mage) and 4 different options fo
 Each character class, has its own buff. As an Archer there is a chance to deal more damage, as a Warrion there is a chance to take less damage
 and as a Mage, there is a bigger chance to find healing potions.
 
-For more information about how the code works, there are lots of comments in the .java files to help you understand everything!
+For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
